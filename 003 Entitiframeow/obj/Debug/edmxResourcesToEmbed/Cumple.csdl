@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataCumpleModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="FechaCum">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Nombre" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="Apellidos" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="Cumpleños" Type="DateTime" Precision="0" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityContainer Name="DataCumpleEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="FechaCum" EntityType="Self.FechaCum" />
+  </EntityContainer>
+</Schema>

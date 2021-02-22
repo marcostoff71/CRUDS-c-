@@ -1,0 +1,12 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\bin\Debug\005 VentaDEProductos.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\bin\Debug\005 VentaDEProductos.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\bin\Debug\005 VentaDEProductos.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\005 VentaDEProductos.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\_005_VentaDEProductos.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\005 VentaDEProductos.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\005 VentaDEProductos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\005 VentaDEProductos.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\005 VentaDEProductos.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\_005_VentaDEProductos.Formularios.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\_005_VentaDEProductos.Formularios.Registro.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDEProductos\obj\Debug\_005_VentaDEProductos.Formularios.Venta.resources

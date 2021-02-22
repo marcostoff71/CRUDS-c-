@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\bin\Debug\004 BasesDatosEntiti.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\bin\Debug\004 BasesDatosEntiti.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\bin\Debug\004 BasesDatosEntiti.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\004 BasesDatosEntiti.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\_004_BasesDatosEntiti.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\_004_BasesDatosEntiti.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\004 BasesDatosEntiti.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\004 BasesDatosEntiti.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\004 BasesDatosEntiti.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\004 BasesDatosEntiti.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\004 BasesDatosEntiti.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\004 BasesDatosEntiti\obj\Debug\_004_BasesDatosEntiti.Formularios.Registro.resources

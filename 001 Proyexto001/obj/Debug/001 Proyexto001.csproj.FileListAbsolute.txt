@@ -1,0 +1,11 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\bin\Debug\001 Proyexto001.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\bin\Debug\001 Proyexto001.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\bin\Debug\001 Proyexto001.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\obj\Debug\001 Proyexto001.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\obj\Debug\_001_Proyexto001.Form1.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\obj\Debug\_001_Proyexto001.Form2.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\obj\Debug\_001_Proyexto001.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\obj\Debug\001 Proyexto001.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\obj\Debug\001 Proyexto001.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\obj\Debug\001 Proyexto001.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\001 Proyexto001\obj\Debug\001 Proyexto001.pdb

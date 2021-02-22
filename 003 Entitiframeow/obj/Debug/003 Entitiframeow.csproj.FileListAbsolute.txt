@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\bin\Debug\003 Entitiframeow.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\bin\Debug\003 Entitiframeow.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\bin\Debug\003 Entitiframeow.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\003 Entitiframeow.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\_003_Entitiframeow.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\003 Entitiframeow.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\003 Entitiframeow.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\003 Entitiframeow.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\003 Entitiframeow.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\003 Entitiframeow.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\_003_Entitiframeow.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\003 Entitiframeow\obj\Debug\_003_Entitiframeow.Registro.resources

@@ -1,0 +1,11 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\bin\Debug\002 Por yo.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\bin\Debug\002 Por yo.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\bin\Debug\002 Por yo.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\obj\Debug\002 Por yo.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\obj\Debug\_002_Por_yo.Menu.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\obj\Debug\_002_Por_yo.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\obj\Debug\002 Por yo.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\obj\Debug\002 Por yo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\obj\Debug\002 Por yo.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\obj\Debug\002 Por yo.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\002 Por yo\obj\Debug\_002_Por_yo.Registro.resources
