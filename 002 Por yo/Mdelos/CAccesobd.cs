@@ -65,6 +65,7 @@ namespace _002_Por_yo.Mdelos
             {
                 conexion.Open();
                 string que = string.Format("UPDATE Persona SET Edad={0},Nombre='{1}' WHERE id={2}", p.Edad, p.Nombre, p.Id);
+                
                 SqlCommand comandoActu = new SqlCommand(que, conexion);
                 comandoActu.ExecuteNonQuery();
             }

@@ -98,5 +98,10 @@ namespace _005_VentaDEProductos.Formularios
         {
             Validacionestelcas.SoloNumeros(e);
         }
+
+        private void Registro_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

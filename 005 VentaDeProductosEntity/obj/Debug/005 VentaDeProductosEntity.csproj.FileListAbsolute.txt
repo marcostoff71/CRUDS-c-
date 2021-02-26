@@ -1,0 +1,17 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\bin\Debug\005 VentaDeProductosEntity.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\bin\Debug\005 VentaDeProductosEntity.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\bin\Debug\005 VentaDeProductosEntity.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\005 VentaDeProductosEntity.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\_005_VentaDeProductosEntity.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\_005_VentaDeProductosEntity.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\005 VentaDeProductosEntity.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\005 VentaDeProductosEntity.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\005 VentaDeProductosEntity.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\005 VentaDeProductosEntity.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\005 VentaDeProductosEntity.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\_005_VentaDeProductosEntity.Formularios.Registro.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\005 VentaDeProductosEntity\obj\Debug\_005_VentaDeProductosEntity.Formularios.Venta.resources

@@ -22,7 +22,8 @@ namespace _005_VentaDEProductos.Formularios
         public bool Validaciones()
         {
             bool correc = false;
-            if (1 == 1)
+            txtCanVender.Text = txtCanVender.Text.Trim();
+            if (txtCanVender.Text.Trim()!="")
             {
                 correc = true;
             }
