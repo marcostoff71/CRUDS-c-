@@ -22,7 +22,7 @@ namespace _002_Por_yo.Mdelos
             try
             {
                 conexion.Open();
-                string query = string.Format("Select * from Persona");
+                string query = string.Format("select * from Persona");
                 SqlCommand comandoObtenr = new SqlCommand(query, conexion);
                 SqlDataReader leer = comandoObtenr.ExecuteReader();
                 while (leer.Read())
@@ -34,6 +34,7 @@ namespace _002_Por_yo.Mdelos
                         Nombre = leer["Nombre"].ToString()
                     }) ; 
                 }
+                leer.Close();
             }
             catch (Exception)
             {

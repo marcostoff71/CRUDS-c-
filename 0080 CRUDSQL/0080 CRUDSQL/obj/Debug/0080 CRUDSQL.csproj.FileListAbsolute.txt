@@ -1,0 +1,11 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\obj\Debug\0080 CRUDSQL.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\obj\Debug\_0080_CRUDSQL.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\obj\Debug\0080 CRUDSQL.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\obj\Debug\0080 CRUDSQL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\bin\Debug\0080 CRUDSQL.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\bin\Debug\0080 CRUDSQL.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\bin\Debug\0080 CRUDSQL.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\obj\Debug\0080 CRUDSQL.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\obj\Debug\0080 CRUDSQL.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\obj\Debug\_0080_CRUDSQL.Form1.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0080 CRUDSQL\0080 CRUDSQL\obj\Debug\_0080_CRUDSQL.Formularios.Registro.resources

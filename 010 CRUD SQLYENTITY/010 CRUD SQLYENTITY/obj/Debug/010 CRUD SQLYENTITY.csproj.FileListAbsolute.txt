@@ -1,0 +1,11 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\bin\Debug\010 CRUD SQLYENTITY.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\bin\Debug\010 CRUD SQLYENTITY.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\bin\Debug\010 CRUD SQLYENTITY.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\obj\Debug\010 CRUD SQLYENTITY.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\obj\Debug\_010_CRUD_SQLYENTITY.Formularios.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\obj\Debug\_010_CRUD_SQLYENTITY.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\obj\Debug\010 CRUD SQLYENTITY.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\obj\Debug\010 CRUD SQLYENTITY.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\obj\Debug\010 CRUD SQLYENTITY.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\obj\Debug\010 CRUD SQLYENTITY.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\010 CRUD SQLYENTITY\010 CRUD SQLYENTITY\obj\Debug\_010_CRUD_SQLYENTITY.Formularios.Registro.resources

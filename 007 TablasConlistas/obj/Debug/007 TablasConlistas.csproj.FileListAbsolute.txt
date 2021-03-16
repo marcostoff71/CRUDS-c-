@@ -1,0 +1,10 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\obj\Debug\007 TablasConlistas.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\obj\Debug\_007_TablasConlistas.Formularios.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\obj\Debug\_007_TablasConlistas.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\obj\Debug\007 TablasConlistas.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\obj\Debug\007 TablasConlistas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\bin\Debug\007 TablasConlistas.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\bin\Debug\007 TablasConlistas.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\bin\Debug\007 TablasConlistas.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\obj\Debug\007 TablasConlistas.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\007 TablasConlistas\obj\Debug\007 TablasConlistas.pdb

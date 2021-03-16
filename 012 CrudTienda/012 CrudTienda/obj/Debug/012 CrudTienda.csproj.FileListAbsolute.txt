@@ -1,0 +1,17 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\012 CrudTienda.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\_012_CrudTienda.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\012 CrudTienda.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\012 CrudTienda.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\bin\Debug\012 CrudTienda.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\bin\Debug\012 CrudTienda.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\bin\Debug\012 CrudTienda.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\012 CrudTienda.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\012 CrudTienda.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\012 CrudTienda.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\_012_CrudTienda.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\_012_CrudTienda.Formularios.Registro.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\012 CrudTienda\012 CrudTienda\obj\Debug\_012_CrudTienda.Formularios.Venta.resources

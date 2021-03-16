@@ -1,0 +1,19 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\bin\Debug\net5.0-windows\008 CRUDSQL.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\bin\Debug\net5.0-windows\008 CRUDSQL.deps.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\bin\Debug\net5.0-windows\008 CRUDSQL.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\bin\Debug\net5.0-windows\008 CRUDSQL.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\bin\Debug\net5.0-windows\008 CRUDSQL.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\bin\Debug\net5.0-windows\ref\008 CRUDSQL.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\bin\Debug\net5.0-windows\008 CRUDSQL.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\ref\008 CRUDSQL.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\008 CRUDSQL.genruntimeconfig.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\_008_CRUDSQL.Formularios.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\008 CRUDSQL\008 CRUDSQL\obj\Debug\net5.0-windows\_008_CRUDSQL.Formularios.Registro.resources

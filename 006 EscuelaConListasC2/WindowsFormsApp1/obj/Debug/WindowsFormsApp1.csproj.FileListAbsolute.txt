@@ -1,0 +1,11 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\006 EscuelaConListasC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Registro.resources

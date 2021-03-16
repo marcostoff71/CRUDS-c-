@@ -1,0 +1,22 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf_MarkupCompile.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf_MarkupCompile.lref
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\bin\Debug\net5.0-windows\011 Crud wpf.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\bin\Debug\net5.0-windows\011 Crud wpf.deps.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\bin\Debug\net5.0-windows\011 Crud wpf.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\bin\Debug\net5.0-windows\011 Crud wpf.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\bin\Debug\net5.0-windows\011 Crud wpf.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\bin\Debug\net5.0-windows\ref\011 Crud wpf.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\bin\Debug\net5.0-windows\011 Crud wpf.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.g.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\ref\011 Crud wpf.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\011 Crud wpf\011 Crud wpf\obj\Debug\net5.0-windows\011 Crud wpf.genruntimeconfig.cache

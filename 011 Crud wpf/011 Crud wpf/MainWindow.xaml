@@ -1,0 +1,15 @@
+﻿<Window x:Class="_011_Crud_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_011_Crud_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Margin="672,26,30,384" Background="#44611E3F" BorderBrush="#FFBD2626" Foreground="#FF403636" Cursor="Arrow" Panel.ZIndex="1" Content="hola" 
+                />
+        <DataGrid Margin="0,250,0,0" Name="a"/>
+
+    </Grid>
+</Window>

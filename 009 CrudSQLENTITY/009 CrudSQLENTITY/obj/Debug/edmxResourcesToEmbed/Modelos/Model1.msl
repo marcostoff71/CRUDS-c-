@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PruModelStoreContainer" CdmEntityContainer="PruEntities1">
+    <EntitySetMapping Name="Persona">
+      <EntityTypeMapping TypeName="PruModel.Persona">
+        <MappingFragment StoreEntitySet="Persona">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
+          <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
+          <ScalarProperty Name="Cumpleaños" ColumnName="Cumpleaños" />
+          <ScalarProperty Name="Edad" ColumnName="Edad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
