@@ -50,14 +50,14 @@ namespace _014_CRUDSQLControl.Formularios
             this.panelContedor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelContedor.Location = new System.Drawing.Point(0, 0);
             this.panelContedor.Name = "panelContedor";
-            this.panelContedor.Size = new System.Drawing.Size(800, 450);
+            this.panelContedor.Size = new System.Drawing.Size(876, 450);
             this.panelContedor.TabIndex = 1;
             // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(876, 450);
             this.Controls.Add(this.panelContedor);
             this.Name = "Principal";
             this.Text = "Principal";

@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="EscuelaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Administrativo">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre" Type="varchar" MaxLength="30" />
+          <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
+          <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
+          <Property Name="Edad" Type="int" />
+          <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
+          <Property Name="Fecha Nacimiento" Type="date" />
+          <Property Name="Curp" Type="varchar" MaxLength="30" />
+          <Property Name="Rfc" Type="varchar" MaxLength="30" />
+          <Property Name="Numero Empleado" Type="int" />
+          <Property Name="Fecha Ingreso" Type="date" />
+          <Property Name="Area Trabajo" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Directivo">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre" Type="varchar" MaxLength="30" />
+          <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
+          <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
+          <Property Name="Edad" Type="int" />
+          <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
+          <Property Name="Fecha Nacimiento" Type="date" />
+          <Property Name="Curp" Type="varchar" MaxLength="30" />
+          <Property Name="Rfc" Type="varchar" MaxLength="30" />
+          <Property Name="Numero Empleado" Type="int" />
+          <Property Name="Fecha Ingreso" Type="date" />
+          <Property Name="Profesion" Type="varchar" MaxLength="30" />
+          <Property Name="Puesto" Type="varchar" MaxLength="30" />
+          <Property Name="Cantidad Empleados" Type="int" />
+        </EntityType>
+        <EntityType Name="Pasajero">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre" Type="varchar" MaxLength="30" />
+          <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
+          <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
+          <Property Name="Edad" Type="int" />
+          <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Piloto">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre" Type="varchar" MaxLength="30" />
+          <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
+          <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
+          <Property Name="Edad" Type="int" />
+          <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
+          <Property Name="Fecha Nacimiento" Type="date" />
+          <Property Name="Curp" Type="varchar" MaxLength="30" />
+          <Property Name="Rfc" Type="varchar" MaxLength="30" />
+          <Property Name="Tiempo De Vuelo" Type="float" />
+          <Property Name="Tipo De Nave" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityContainer Name="EscuelaModelStoreContainer">
+          <EntitySet Name="Administrativo" EntityType="Self.Administrativo" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Directivo" EntityType="Self.Directivo" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Pasajero" EntityType="Self.Pasajero" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Piloto" EntityType="Self.Piloto" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="EscuelaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Administrativo">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Edad" Type="Int32" />
+          <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
+          <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Numero_Empleado" Type="Int32" />
+          <Property Name="Fecha_Ingreso" Type="DateTime" Precision="0" />
+          <Property Name="Area_Trabajo" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Directivo">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Edad" Type="Int32" />
+          <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
+          <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Numero_Empleado" Type="Int32" />
+          <Property Name="Fecha_Ingreso" Type="DateTime" Precision="0" />
+          <Property Name="Profesion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Puesto" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Cantidad_Empleados" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Pasajero">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Edad" Type="Int32" />
+          <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Piloto">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Edad" Type="Int32" />
+          <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
+          <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Tiempo_De_Vuelo" Type="Double" />
+          <Property Name="Tipo_De_Nave" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="EscuelaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Administrativo" EntityType="Self.Administrativo" />
+          <EntitySet Name="Directivo" EntityType="Self.Directivo" />
+          <EntitySet Name="Pasajero" EntityType="Self.Pasajero" />
+          <EntitySet Name="Piloto" EntityType="Self.Piloto" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="EscuelaModelStoreContainer" CdmEntityContainer="EscuelaEntities">
+          <EntitySetMapping Name="Administrativo">
+            <EntityTypeMapping TypeName="EscuelaModel.Administrativo">
+              <MappingFragment StoreEntitySet="Administrativo">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
+                <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
+                <ScalarProperty Name="Edad" ColumnName="Edad" />
+                <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
+                <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
+                <ScalarProperty Name="Curp" ColumnName="Curp" />
+                <ScalarProperty Name="Rfc" ColumnName="Rfc" />
+                <ScalarProperty Name="Numero_Empleado" ColumnName="Numero Empleado" />
+                <ScalarProperty Name="Fecha_Ingreso" ColumnName="Fecha Ingreso" />
+                <ScalarProperty Name="Area_Trabajo" ColumnName="Area Trabajo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Directivo">
+            <EntityTypeMapping TypeName="EscuelaModel.Directivo">
+              <MappingFragment StoreEntitySet="Directivo">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
+                <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
+                <ScalarProperty Name="Edad" ColumnName="Edad" />
+                <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
+                <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
+                <ScalarProperty Name="Curp" ColumnName="Curp" />
+                <ScalarProperty Name="Rfc" ColumnName="Rfc" />
+                <ScalarProperty Name="Numero_Empleado" ColumnName="Numero Empleado" />
+                <ScalarProperty Name="Fecha_Ingreso" ColumnName="Fecha Ingreso" />
+                <ScalarProperty Name="Profesion" ColumnName="Profesion" />
+                <ScalarProperty Name="Puesto" ColumnName="Puesto" />
+                <ScalarProperty Name="Cantidad_Empleados" ColumnName="Cantidad Empleados" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Pasajero">
+            <EntityTypeMapping TypeName="EscuelaModel.Pasajero">
+              <MappingFragment StoreEntitySet="Pasajero">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
+                <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
+                <ScalarProperty Name="Edad" ColumnName="Edad" />
+                <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Piloto">
+            <EntityTypeMapping TypeName="EscuelaModel.Piloto">
+              <MappingFragment StoreEntitySet="Piloto">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
+                <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
+                <ScalarProperty Name="Edad" ColumnName="Edad" />
+                <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
+                <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
+                <ScalarProperty Name="Curp" ColumnName="Curp" />
+                <ScalarProperty Name="Rfc" ColumnName="Rfc" />
+                <ScalarProperty Name="Tiempo_De_Vuelo" ColumnName="Tiempo De Vuelo" />
+                <ScalarProperty Name="Tipo_De_Nave" ColumnName="Tipo De Nave" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

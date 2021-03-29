@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EscuelaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Administrativo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="30" />
+    <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
+    <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
+    <Property Name="Edad" Type="int" />
+    <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
+    <Property Name="Fecha Nacimiento" Type="date" />
+    <Property Name="Curp" Type="varchar" MaxLength="30" />
+    <Property Name="Rfc" Type="varchar" MaxLength="30" />
+    <Property Name="Numero Empleado" Type="int" />
+    <Property Name="Fecha Ingreso" Type="date" />
+    <Property Name="Area Trabajo" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Directivo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="30" />
+    <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
+    <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
+    <Property Name="Edad" Type="int" />
+    <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
+    <Property Name="Fecha Nacimiento" Type="date" />
+    <Property Name="Curp" Type="varchar" MaxLength="30" />
+    <Property Name="Rfc" Type="varchar" MaxLength="30" />
+    <Property Name="Numero Empleado" Type="int" />
+    <Property Name="Fecha Ingreso" Type="date" />
+    <Property Name="Profesion" Type="varchar" MaxLength="30" />
+    <Property Name="Puesto" Type="varchar" MaxLength="30" />
+    <Property Name="Cantidad Empleados" Type="int" />
+  </EntityType>
+  <EntityType Name="Pasajero">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="30" />
+    <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
+    <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
+    <Property Name="Edad" Type="int" />
+    <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Piloto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="30" />
+    <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
+    <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
+    <Property Name="Edad" Type="int" />
+    <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
+    <Property Name="Fecha Nacimiento" Type="date" />
+    <Property Name="Curp" Type="varchar" MaxLength="30" />
+    <Property Name="Rfc" Type="varchar" MaxLength="30" />
+    <Property Name="Tiempo De Vuelo" Type="float" />
+    <Property Name="Tipo De Nave" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityContainer Name="EscuelaModelStoreContainer">
+    <EntitySet Name="Administrativo" EntityType="Self.Administrativo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Directivo" EntityType="Self.Directivo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pasajero" EntityType="Self.Pasajero" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Piloto" EntityType="Self.Piloto" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

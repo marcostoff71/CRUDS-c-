@@ -19,6 +19,7 @@ namespace _014_CRUDSQLControl.Formularios
         public Vista()
         {
             InitializeComponent();
+            Refrescar();
         }
         private void Refrescar()
         {
@@ -27,7 +28,6 @@ namespace _014_CRUDSQLControl.Formularios
         }
         private void Vista_Load(object sender, EventArgs e)
         {
-            Refrescar();
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -1,0 +1,15 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\bin\Debug\015 EscuelaFramekork.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\bin\Debug\015 EscuelaFramekork.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\bin\Debug\015 EscuelaFramekork.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\_015_EscuelaFramekork.Formularios.Registro.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\_015_EscuelaFramekork.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.pdb
