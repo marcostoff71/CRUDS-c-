@@ -1,0 +1,11 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\bin\Debug\0001 Prueba.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\bin\Debug\0001 Prueba.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\bin\Debug\0001 Prueba.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\obj\Debug\0001 Prueba.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\obj\Debug\_0001_Prueba.Form1.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\obj\Debug\_0001_Prueba.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\obj\Debug\_0001_Prueba.UserControl1.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\obj\Debug\0001 Prueba.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\obj\Debug\0001 Prueba.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\obj\Debug\0001 Prueba.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\0001 Prueba\0001 Prueba\obj\Debug\0001 Prueba.pdb
