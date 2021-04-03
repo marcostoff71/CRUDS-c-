@@ -63,6 +63,7 @@ namespace _014_CRUDSQLControl.Formularios
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(152, 26);
             this.textBox1.TabIndex = 1;
+            this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // button2
             // 

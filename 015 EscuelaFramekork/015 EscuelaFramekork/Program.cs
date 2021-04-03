@@ -16,7 +16,7 @@ namespace _015_EscuelaFramekork
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Formularios.Registro());
+            Application.Run(new Formularios.Principal());
         }
     }
 }

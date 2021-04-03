@@ -12,15 +12,54 @@ namespace _014_CRUDSQLControl.Logica.Acceso
 {
     class AccesoBdPersonas
     {
+        
         public static List<Persona> ObtenerPersonas()
         {
             List<Persona> lstPersonas = new List<Persona>();
 
             try
             {
+                
                 ConexionMaestra.ConectarBd();
                 string query = "SELECT * FROM Persona";
                 SqlCommand obtener = new SqlCommand(query, ConexionMaestra.Conexion);
+                SqlDataReader leer = obtener.ExecuteReader();
+
+
+                while (leer.Read())
+                {
+                    lstPersonas.Add(
+                        new Persona
+                        {
+                            Id = leer.GetInt32(0),
+                            Nombre = leer.GetString(1),
+                            Apellido = leer.GetString(2),
+                            Edad = leer.GetInt32(3)
+                        });
+                }
+                leer.Close();
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Erro al obtener datos " + e);
+            }
+            finally
+            {
+                ConexionMaestra.CerrarBd();
+            }
+            return lstPersonas;
+        }
+        public static List<Persona> BuscarPersonas(string bus)
+        {
+            List<Persona> lstPersonas = new List<Persona>();
+
+            try
+            {
+                ConexionMaestra.ConectarBd();
+                string query = "SELECT * FROM Persona where Nombre Like @Nombre or Apellido Like @Apellido";
+                SqlCommand obtener = new SqlCommand(query, ConexionMaestra.Conexion);
+                obtener.Parameters.AddWithValue("@Nombre", $"%{bus}%");
+                obtener.Parameters.AddWithValue("@Apellido", $"%{bus}%");
                 SqlDataReader leer = obtener.ExecuteReader();
 
 

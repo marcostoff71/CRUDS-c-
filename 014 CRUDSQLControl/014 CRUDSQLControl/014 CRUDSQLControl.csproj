@@ -66,6 +66,7 @@
     </Compile>
     <Compile Include="Logica\Acceso\AccesoBdPersonas.cs" />
     <Compile Include="Logica\Acceso\ConexionMaestra.cs" />
+    <Compile Include="Logica\ValiTextbox.cs" />
     <Compile Include="Modelos\Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

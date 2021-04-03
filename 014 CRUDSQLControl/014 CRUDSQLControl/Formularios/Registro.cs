@@ -51,16 +51,35 @@ namespace _014_CRUDSQLControl.Formularios
                 }
                 this.Close();
             }
+            else
+            {
+                MessageBox.Show("Completa los compos correctamente","Validaciones",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+            }
         }
 
         private bool Validaciones()
         {
-            return true;
+            TrimTextBox(ref txtNombre);
+            TrimTextBox(ref txtApellido);
+            TrimTextBox(ref txtEdad);
+            if (txtNombre.Text != "" && txtApellido.Text != "" && txtEdad.Text != "")
+            {
+                return true;
+            }
+            return false;
         }
-
+        private void TrimTextBox(ref TextBox text)
+        {
+            text.Text = text.Text.Trim();
+        }
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void txtEdad_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Logica.ValiTextbox.SoloNumerosF(txtEdad,e);
         }
     }
 }

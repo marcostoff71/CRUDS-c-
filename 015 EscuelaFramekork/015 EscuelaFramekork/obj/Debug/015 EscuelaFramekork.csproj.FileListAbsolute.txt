@@ -13,3 +13,5 @@ C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\01
 C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.csproj.CopyComplete
 C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.exe
 C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\015 EscuelaFramekork.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\_015_EscuelaFramekork.Formularios.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\015 EscuelaFramekork\015 EscuelaFramekork\obj\Debug\_015_EscuelaFramekork.Formularios.Vista.resources

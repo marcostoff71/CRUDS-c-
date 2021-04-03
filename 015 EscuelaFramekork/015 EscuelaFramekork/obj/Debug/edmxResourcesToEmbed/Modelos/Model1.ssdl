@@ -8,8 +8,6 @@
     <Property Name="Nombre" Type="varchar" MaxLength="30" />
     <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
     <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
-    <Property Name="Edad" Type="int" />
-    <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
     <Property Name="Fecha Nacimiento" Type="date" />
     <Property Name="Curp" Type="varchar" MaxLength="30" />
     <Property Name="Rfc" Type="varchar" MaxLength="30" />
@@ -25,8 +23,6 @@
     <Property Name="Nombre" Type="varchar" MaxLength="30" />
     <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
     <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
-    <Property Name="Edad" Type="int" />
-    <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
     <Property Name="Fecha Nacimiento" Type="date" />
     <Property Name="Curp" Type="varchar" MaxLength="30" />
     <Property Name="Rfc" Type="varchar" MaxLength="30" />
@@ -55,8 +51,6 @@
     <Property Name="Nombre" Type="varchar" MaxLength="30" />
     <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
     <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
-    <Property Name="Edad" Type="int" />
-    <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
     <Property Name="Fecha Nacimiento" Type="date" />
     <Property Name="Curp" Type="varchar" MaxLength="30" />
     <Property Name="Rfc" Type="varchar" MaxLength="30" />

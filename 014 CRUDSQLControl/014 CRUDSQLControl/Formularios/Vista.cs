@@ -63,7 +63,7 @@ namespace _014_CRUDSQLControl.Formularios
         }
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(ObterId().ToString());
+            
             if (ObterId() != null)
             {
 
@@ -91,6 +91,19 @@ namespace _014_CRUDSQLControl.Formularios
             {
                 MessageBox.Show(dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString());
                 id = int.Parse(dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString());
+            }
+        }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                Refrescar();
+            }
+            else
+            {
+                dataGridView1.DataSource = null;
+                dataGridView1.DataSource=AccesoBdPersonas.BuscarPersonas(textBox1.Text.Trim());
             }
         }
     }

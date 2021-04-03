@@ -13,8 +13,6 @@
           <Property Name="Nombre" Type="varchar" MaxLength="30" />
           <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
           <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
-          <Property Name="Edad" Type="int" />
-          <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
           <Property Name="Fecha Nacimiento" Type="date" />
           <Property Name="Curp" Type="varchar" MaxLength="30" />
           <Property Name="Rfc" Type="varchar" MaxLength="30" />
@@ -30,8 +28,6 @@
           <Property Name="Nombre" Type="varchar" MaxLength="30" />
           <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
           <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
-          <Property Name="Edad" Type="int" />
-          <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
           <Property Name="Fecha Nacimiento" Type="date" />
           <Property Name="Curp" Type="varchar" MaxLength="30" />
           <Property Name="Rfc" Type="varchar" MaxLength="30" />
@@ -60,8 +56,6 @@
           <Property Name="Nombre" Type="varchar" MaxLength="30" />
           <Property Name="Apellido Paterno" Type="varchar" MaxLength="30" />
           <Property Name="Apellido Materno" Type="varchar" MaxLength="30" />
-          <Property Name="Edad" Type="int" />
-          <Property Name="Ocupacion" Type="varchar" MaxLength="30" />
           <Property Name="Fecha Nacimiento" Type="date" />
           <Property Name="Curp" Type="varchar" MaxLength="30" />
           <Property Name="Rfc" Type="varchar" MaxLength="30" />
@@ -87,8 +81,6 @@
           <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-          <Property Name="Edad" Type="Int32" />
-          <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
           <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
@@ -104,8 +96,6 @@
           <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-          <Property Name="Edad" Type="Int32" />
-          <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
           <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
@@ -134,15 +124,13 @@
           <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-          <Property Name="Edad" Type="Int32" />
-          <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
           <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Tiempo_De_Vuelo" Type="Double" />
           <Property Name="Tipo_De_Nave" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
         </EntityType>
-        <EntityContainer Name="EscuelaEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="EscuelaEntities2" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Administrativo" EntityType="Self.Administrativo" />
           <EntitySet Name="Directivo" EntityType="Self.Directivo" />
           <EntitySet Name="Pasajero" EntityType="Self.Pasajero" />
@@ -153,7 +141,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="EscuelaModelStoreContainer" CdmEntityContainer="EscuelaEntities">
+        <EntityContainerMapping StorageEntityContainer="EscuelaModelStoreContainer" CdmEntityContainer="EscuelaEntities2">
           <EntitySetMapping Name="Administrativo">
             <EntityTypeMapping TypeName="EscuelaModel.Administrativo">
               <MappingFragment StoreEntitySet="Administrativo">
@@ -161,8 +149,6 @@
                 <ScalarProperty Name="Nombre" ColumnName="Nombre" />
                 <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
                 <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
-                <ScalarProperty Name="Edad" ColumnName="Edad" />
-                <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
                 <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
                 <ScalarProperty Name="Curp" ColumnName="Curp" />
                 <ScalarProperty Name="Rfc" ColumnName="Rfc" />
@@ -179,8 +165,6 @@
                 <ScalarProperty Name="Nombre" ColumnName="Nombre" />
                 <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
                 <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
-                <ScalarProperty Name="Edad" ColumnName="Edad" />
-                <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
                 <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
                 <ScalarProperty Name="Curp" ColumnName="Curp" />
                 <ScalarProperty Name="Rfc" ColumnName="Rfc" />
@@ -211,8 +195,6 @@
                 <ScalarProperty Name="Nombre" ColumnName="Nombre" />
                 <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
                 <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
-                <ScalarProperty Name="Edad" ColumnName="Edad" />
-                <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
                 <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
                 <ScalarProperty Name="Curp" ColumnName="Curp" />
                 <ScalarProperty Name="Rfc" ColumnName="Rfc" />

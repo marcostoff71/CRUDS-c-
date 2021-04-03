@@ -8,8 +8,6 @@
     <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-    <Property Name="Edad" Type="Int32" />
-    <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
     <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
@@ -25,8 +23,6 @@
     <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-    <Property Name="Edad" Type="Int32" />
-    <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
     <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
@@ -55,15 +51,13 @@
     <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Apellido_Paterno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Apellido_Materno" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-    <Property Name="Edad" Type="Int32" />
-    <Property Name="Ocupacion" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Fecha_Nacimiento" Type="DateTime" Precision="0" />
     <Property Name="Curp" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Rfc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Tiempo_De_Vuelo" Type="Double" />
     <Property Name="Tipo_De_Nave" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
   </EntityType>
-  <EntityContainer Name="EscuelaEntities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="EscuelaEntities2" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Administrativo" EntityType="Self.Administrativo" />
     <EntitySet Name="Directivo" EntityType="Self.Directivo" />
     <EntitySet Name="Pasajero" EntityType="Self.Pasajero" />

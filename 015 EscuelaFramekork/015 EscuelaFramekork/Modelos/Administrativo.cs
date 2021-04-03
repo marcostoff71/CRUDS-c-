@@ -18,8 +18,6 @@ namespace _015_EscuelaFramekork.Modelos
         public string Nombre { get; set; }
         public string Apellido_Paterno { get; set; }
         public string Apellido_Materno { get; set; }
-        public Nullable<int> Edad { get; set; }
-        public string Ocupacion { get; set; }
         public Nullable<System.DateTime> Fecha_Nacimiento { get; set; }
         public string Curp { get; set; }
         public string Rfc { get; set; }

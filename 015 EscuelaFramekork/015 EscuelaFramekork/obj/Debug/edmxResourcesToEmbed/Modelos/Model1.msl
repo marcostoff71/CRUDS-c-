@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="EscuelaModelStoreContainer" CdmEntityContainer="EscuelaEntities">
+  <EntityContainerMapping StorageEntityContainer="EscuelaModelStoreContainer" CdmEntityContainer="EscuelaEntities2">
     <EntitySetMapping Name="Administrativo">
       <EntityTypeMapping TypeName="EscuelaModel.Administrativo">
         <MappingFragment StoreEntitySet="Administrativo">
@@ -8,8 +8,6 @@
           <ScalarProperty Name="Nombre" ColumnName="Nombre" />
           <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
           <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
-          <ScalarProperty Name="Edad" ColumnName="Edad" />
-          <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
           <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
           <ScalarProperty Name="Curp" ColumnName="Curp" />
           <ScalarProperty Name="Rfc" ColumnName="Rfc" />
@@ -26,8 +24,6 @@
           <ScalarProperty Name="Nombre" ColumnName="Nombre" />
           <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
           <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
-          <ScalarProperty Name="Edad" ColumnName="Edad" />
-          <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
           <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
           <ScalarProperty Name="Curp" ColumnName="Curp" />
           <ScalarProperty Name="Rfc" ColumnName="Rfc" />
@@ -58,8 +54,6 @@
           <ScalarProperty Name="Nombre" ColumnName="Nombre" />
           <ScalarProperty Name="Apellido_Paterno" ColumnName="Apellido Paterno" />
           <ScalarProperty Name="Apellido_Materno" ColumnName="Apellido Materno" />
-          <ScalarProperty Name="Edad" ColumnName="Edad" />
-          <ScalarProperty Name="Ocupacion" ColumnName="Ocupacion" />
           <ScalarProperty Name="Fecha_Nacimiento" ColumnName="Fecha Nacimiento" />
           <ScalarProperty Name="Curp" ColumnName="Curp" />
           <ScalarProperty Name="Rfc" ColumnName="Rfc" />
