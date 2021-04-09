@@ -1,0 +1,14 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\013 CRUDDAPPERTASKT.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\_013_CRUDDAPPERTASKT.Formularios.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\_013_CRUDDAPPERTASKT.Formularios.VistaDatos.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\_013_CRUDDAPPERTASKT.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\013 CRUDDAPPERTASKT.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\013 CRUDDAPPERTASKT.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\bin\Debug\013 CRUDDAPPERTASKT.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\bin\Debug\013 CRUDDAPPERTASKT.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\bin\Debug\013 CRUDDAPPERTASKT.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\013 CRUDDAPPERTASKT.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\013 CRUDDAPPERTASKT.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\bin\Debug\Dapper.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\bin\Debug\Dapper.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\013 CRUDDAPPERTASKT.csproj.CopyComplete
