@@ -56,6 +56,12 @@
     <Compile Include="Formularios\Principal.Designer.cs">
       <DependentUpon>Principal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\VistaDatos.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -65,11 +71,15 @@
     <Compile Include="Logica\Acceso.cs" />
     <Compile Include="Logica\CapaNegocios.cs" />
     <Compile Include="Logica\Conexion.cs" />
+    <Compile Include="Logica\Util.cs" />
     <Compile Include="Modelos\Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Formularios\Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\VistaDatos.resx">
       <DependentUpon>VistaDatos.cs</DependentUpon>

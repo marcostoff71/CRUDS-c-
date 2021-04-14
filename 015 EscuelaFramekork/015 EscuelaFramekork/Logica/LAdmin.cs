@@ -30,12 +30,14 @@ namespace _015_EscuelaFramekork.Logica
         }
         public static Administrativo ObterPodId(int id)
         {
+            Administrativo ad = new Administrativo();
             using(EscuelaEntities db = new EscuelaEntities())
             {
-                return (from d in db.Administrativo
+                ad= (from d in db.Administrativo
                        where d.Id == id
                        select d).First();
             }
+            return ad;
         }
         public static void AgregarAdmin(Administrativo a1)
         {

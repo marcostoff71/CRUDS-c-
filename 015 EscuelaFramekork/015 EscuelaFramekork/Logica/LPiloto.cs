@@ -44,14 +44,15 @@ namespace _015_EscuelaFramekork.Logica
         {
             using (EscuelaEntities db = new EscuelaEntities())
             {
-                return db.Piloto.First(i => i.Id == id);
+                return db.Piloto.FirstOrDefault(I => I.Id == id);
             }
         }
         public static void EliminarPiloto(int id)
         {
             using (EscuelaEntities db = new EscuelaEntities())
             {
-                db.Piloto.Remove(ObtenerPorId(id));
+                db.Piloto.Remove(db.Piloto.First(item=>item.Id==id));
+                db.SaveChanges();
             }
         }
         public static void ModificarPiloto(Piloto p1)

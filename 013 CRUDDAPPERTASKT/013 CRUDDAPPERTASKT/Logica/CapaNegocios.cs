@@ -37,9 +37,9 @@ namespace _013_CRUDDAPPERTASKT.Logica
             return await acceso.EliminarPersona(id);
         }
 
-        public Task<bool> MofificarPersona(Persona per)
+        public async Task<bool> MofificarPersona(Persona per)
         {
-            throw new NotImplementedException();
+            return await acceso.MofificarPersona(per);
         }
 
         public async Task<List<Persona>> ObtenerPersonas()
@@ -47,7 +47,7 @@ namespace _013_CRUDDAPPERTASKT.Logica
             return await acceso.ObtenerPersonas();
         }
 
-        public async Task<List<Persona>> ObtenerPersonasId(int id)
+        public async Task<Persona> ObtenerPersonasId(int id)
         {
             return await acceso.ObtenerPersonasId(id);
         }

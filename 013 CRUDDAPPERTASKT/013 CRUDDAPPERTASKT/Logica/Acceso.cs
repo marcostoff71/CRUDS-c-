@@ -12,7 +12,7 @@ namespace _013_CRUDDAPPERTASKT.Logica
     public interface IAcceso
     {
         Task<List<Persona>> ObtenerPersonas();
-        Task<List<Persona>> ObtenerPersonasId(int id);
+        Task<Persona> ObtenerPersonasId(int id);
         Task<List<Persona>> BuscarPersona(string bus);
         Task<bool> AgregarPersona(Persona per);
         Task<bool> MofificarPersona(Persona per);
@@ -31,13 +31,21 @@ namespace _013_CRUDDAPPERTASKT.Logica
         public async Task<bool> AgregarPersona(Persona per)
         {
             SqlConnection co = conexion.obtenerCo();
-
-            string qeri = @"INSERT INTO Persona (Nombre,[Apellido Paterno],[Apellido Materno],Edad,Cumpleaños,Sexo)  
+            try
+            {
+                string qeri = @"INSERT INTO Persona (Nombre,[Apellido Paterno],[Apellido Materno],Edad,Cumpleaños,Sexo)  
             values (@Nombre,@Apellido_Paterno,@Apellido_Materno,@Edad,@Cumpleaños,@Sexo)";
 
-            int re = await co.ExecuteAsync(qeri, new { per.Nombre, per.Apellido_Paterno, per.Apellido_Materno, per.Edad, per.Cumpleaños, per.Sexo });
+                int re = await co.ExecuteAsync(qeri, new { per.Nombre, per.Apellido_Paterno, per.Apellido_Materno, per.Edad, per.Cumpleaños, per.Sexo });
 
-            return re > 0;
+                return re > 0;
+            }
+            catch (Exception)
+            {
+                return false;
+                
+            }
+            
         }
         public async Task<bool> EliminarPersona(int id)
         {
@@ -53,7 +61,7 @@ namespace _013_CRUDDAPPERTASKT.Logica
             SqlConnection co = conexion.obtenerCo();
 
             string queri = @"UPDATE Persona
-                            SET Nombre=@Nombre,[Apellido Paterno]=@Apellido_Paterno,[Apellido Materno]=@Apellido_Materno    Edad=@Edad,Cumpleaños=@Cumpleaños,Sexo=@Sexo WHERE Id=@Id";
+                            SET Nombre=@Nombre,[Apellido Paterno]=@Apellido_Paterno,[Apellido Materno]=@Apellido_Materno,    Edad=@Edad,Cumpleaños=@Cumpleaños,Sexo=@Sexo WHERE Id=@Id";
             int re = await co.ExecuteAsync(queri, new { per.Nombre, per.Apellido_Paterno, per.Apellido_Materno, per.Edad, per.Cumpleaños, per.Sexo,per.Id });
 
 
@@ -70,20 +78,21 @@ namespace _013_CRUDDAPPERTASKT.Logica
             IEnumerable<Persona> lst =await co.QueryAsync<Persona>(qeri);
             return lst.ToList();
         }
-        public async Task<List<Persona>> ObtenerPersonasId(int id)
+        public async Task<Persona> ObtenerPersonasId(int id)
         {
             SqlConnection co = conexion.obtenerCo();
 
             string qeri = @"SELECT Id,Nombre, [Apellido Paterno] as Apellido_Paterno,[Apellido Materno] as Apellido_Materno,Edad,Cumpleaños,Sexo  FROM Persona WHERE Id=@id";
 
-            IEnumerable<Persona> lst = await co.QueryAsync<Persona>(qeri,new {id});
-            return lst.ToList();
+            Persona p= await co.QueryFirstOrDefaultAsync<Persona>(qeri,new {id});
+            return p;
         }
         public async Task<List<Persona>> BuscarPersona(string Bus)
         {
+            Bus = "%" + Bus + "%";
             SqlConnection co = conexion.obtenerCo();
 
-            string queri = @"SELECT Id,Nombre, [Apellido Paterno] as Apellido_Paterno,[Apellido Materno] as Apellido_Materno,Edad,Cumpleaños,Sexo  FROM Persona                                                         Where Nombre LIKE %@Bus% OR [Apellido Paterno] Like %Bus%";
+            string queri = @"SELECT Id,Nombre, [Apellido Paterno] as Apellido_Paterno,[Apellido Materno] as Apellido_Materno,Edad,Cumpleaños,Sexo FROM Persona                                                         Where Nombre LIKE @Bus OR [Apellido Paterno] Like @Bus";
 
             IEnumerable<Persona> re = await co.QueryAsync<Persona>(queri, new { Bus });
 

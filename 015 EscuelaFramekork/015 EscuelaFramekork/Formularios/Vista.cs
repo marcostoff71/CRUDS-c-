@@ -24,14 +24,17 @@ namespace _015_EscuelaFramekork.Formularios
         #region Util
         public int? Getid()
         {
-            try
+
+            if (dgDatos == null)
+            {
+                return null;
+            }else if (dgDatos.Rows.Count <= 0)
+            {
+                return null;
+            }
+            else
             {
                 return int.Parse(dgDatos.Rows[dgDatos.CurrentRow.Index].Cells[0].Value.ToString());
-            }
-            catch (Exception)
-            {
-
-                return null;
             }
         }
         public void Refrescar(int op)

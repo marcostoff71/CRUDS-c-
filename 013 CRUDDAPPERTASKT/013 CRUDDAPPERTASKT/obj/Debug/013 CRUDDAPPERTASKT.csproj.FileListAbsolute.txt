@@ -12,3 +12,4 @@ C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013
 C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\bin\Debug\Dapper.dll
 C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\bin\Debug\Dapper.xml
 C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\013 CRUDDAPPERTASKT.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\013 CRUDDAPPERTASKT\013 CRUDDAPPERTASKT\obj\Debug\_013_CRUDDAPPERTASKT.Formularios.Registro.resources
