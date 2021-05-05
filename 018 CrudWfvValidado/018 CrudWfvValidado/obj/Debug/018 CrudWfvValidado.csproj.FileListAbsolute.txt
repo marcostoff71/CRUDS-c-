@@ -1,0 +1,17 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\bin\Debug\018 CrudWfvValidado.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\bin\Debug\018 CrudWfvValidado.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\bin\Debug\018 CrudWfvValidado.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\018 CrudWfvValidado.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\App.g.cs
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\018 CrudWfvValidado_MarkupCompile.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\018 CrudWfvValidado_MarkupCompile.lref
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\018 CrudWfvValidado.g.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\_018_CrudWfvValidado.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\018 CrudWfvValidado.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\018 CrudWfvValidado.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\018 CrudWfvValidado.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\018 CrudWfvValidado.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\Formularios\MainWindow.g.cs
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\Formularios\Registro.g.cs
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\Formularios\MainWindow.baml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\018 CrudWfvValidado\018 CrudWfvValidado\obj\Debug\Formularios\Registro.baml

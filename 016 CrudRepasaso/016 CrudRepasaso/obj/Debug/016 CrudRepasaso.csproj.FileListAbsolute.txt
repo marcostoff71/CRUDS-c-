@@ -1,0 +1,15 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\016 CrudRepasaso.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\_016_CrudRepasaso.Formularios.Principal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\_016_CrudRepasaso.Formularios.RegistroAlumno.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\_016_CrudRepasaso.Formularios.VistaAlumno.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\_016_CrudRepasaso.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\016 CrudRepasaso.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\016 CrudRepasaso.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\bin\Debug\016 CrudRepasaso.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\bin\Debug\016 CrudRepasaso.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\bin\Debug\016 CrudRepasaso.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\bin\Debug\Dapper.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\bin\Debug\Dapper.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\016 CrudRepasaso.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\016 CrudRepasaso.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\016 CrudRepasaso\016 CrudRepasaso\obj\Debug\016 CrudRepasaso.pdb

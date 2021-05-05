@@ -1,0 +1,46 @@
+﻿<Window x:Class="_018_CrudWfvValidado.Formularios.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_018_CrudWfvValidado"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="Crud" Height="450" Width="800">
+        
+    <Grid>
+        <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Center" VerticalAlignment="Center" Focusable="True" Height="25" Margin="57,20,150,374" Width="57" Grid.Column="2" Click="btnAgregar_Click"/>
+        <Button x:Name="btnRefrescar" Content="Refrescar" HorizontalAlignment="Center" VerticalAlignment="Center" Focusable="True" Height="25" Margin="152,20,55,374" Width="57" Grid.Column="2" Click="btnRefrescar_Click"/>
+        <Label Content="Buscar:" HorizontalAlignment="Left" Margin="40,19,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.529,-0.577" Background="#2323"/>
+        <TextBox x:Name="txtBuscar" HorizontalAlignment="Left" Height="25" Margin="92,20,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="162" Background="DarkBlue" Foreground="White" TextChanged="txtBuscar_TextChanged"/>
+        <DataGrid x:Name="dgDatosPersona" HorizontalAlignment="Left" Height="320" Margin="25,65,0,0" VerticalAlignment="Top" Width="745" Grid.ColumnSpan="3" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Apellido Materno" Binding="{Binding ApMaterno}"></DataGridTextColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button CommandParameter="{Binding Id}" x:Name="btnEliminar" Content="Eliminar" Click="btnEliminar_Click" BorderBrush="Red"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button CommandParameter="{Binding Id}" x:Name="btnModificar" Content="Modificar" Click="btnModificar_Click" BorderBrush="Green"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions></Grid.RowDefinitions>
+
+
+    </Grid>
+</Window>
