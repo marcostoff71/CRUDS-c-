@@ -35,6 +35,8 @@ namespace _012_CrudTienda.Logica
                 //{
                 //    correcto = false;
                 //}
+
+                correcto = !lst.Exists(i => i.Codigo == gene);
                 foreach (Tienda item in lst)
                 {
                     if (item.Codigo == gene)

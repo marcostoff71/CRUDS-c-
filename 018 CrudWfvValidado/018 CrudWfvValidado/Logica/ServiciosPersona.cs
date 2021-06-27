@@ -10,7 +10,7 @@ namespace _018_CrudWfvValidado.Logica
 {
     public class ServiciosPersona : IServiciosPersona
     {
-        AccesoBd bd;
+        private readonly AccesoBd bd;
         public ServiciosPersona()
         {
             bd = new AccesoBd();

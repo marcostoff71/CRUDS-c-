@@ -26,7 +26,7 @@ namespace _012_CrudTienda.Logica
             Tienda t1= new Tienda();
             using (WpfEntities db = new WpfEntities())
             {
-                t1 = db.Tienda.First(i => i.Id == id);
+                t1 = db.Tienda.FirstOrDefault<Tienda>(i => i.Id == id);
 
                 //foreach (var item in db.Tienda)
                 //{

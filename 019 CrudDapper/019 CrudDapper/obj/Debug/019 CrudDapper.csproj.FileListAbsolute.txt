@@ -1,0 +1,15 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\_019_CrudDapper.Formularios.FrmPrincipal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\_019_CrudDapper.Formularios.UCVista.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\_019_CrudDapper.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\019 CrudDapper.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\019 CrudDapper.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\bin\Debug\019 CrudDapper.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\bin\Debug\019 CrudDapper.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\bin\Debug\019 CrudDapper.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\bin\Debug\Dapper.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\bin\Debug\Dapper.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\019 CrudDapper.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\019 CrudDapper.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\019 CrudDapper.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\019 CrudDapper.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\019 CrudDapper\019 CrudDapper\obj\Debug\_019_CrudDapper.Formularios.FrmRegistro.resources

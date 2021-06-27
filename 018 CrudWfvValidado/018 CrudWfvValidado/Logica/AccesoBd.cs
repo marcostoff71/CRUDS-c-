@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using _018_CrudWfvValidado.Modelos;
-
 using System.Windows;
 using System.Windows.Controls;
 namespace _018_CrudWfvValidado.Logica
@@ -116,6 +115,8 @@ namespace _018_CrudWfvValidado.Logica
         }
         public async Task<bool> Modificar(Persona oPersona)
         {
+            Persona aux =await this.ObternerPorId(oPersona.Id);
+            if (aux == null) return false;
             bool exito = false;
             try
             {

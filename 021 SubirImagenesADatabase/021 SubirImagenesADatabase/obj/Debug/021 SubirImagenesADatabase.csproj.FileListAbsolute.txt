@@ -1,0 +1,15 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\bin\Debug\021 SubirImagenesADatabase.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\bin\Debug\021 SubirImagenesADatabase.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\bin\Debug\021 SubirImagenesADatabase.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\obj\Debug\021 SubirImagenesADatabase.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\obj\Debug\_021_SubirImagenesADatabase.Form1.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\obj\Debug\_021_SubirImagenesADatabase.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\obj\Debug\021 SubirImagenesADatabase.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\obj\Debug\021 SubirImagenesADatabase.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\obj\Debug\021 SubirImagenesADatabase.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\obj\Debug\021 SubirImagenesADatabase.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\021 SubirImagenesADatabase\021 SubirImagenesADatabase\obj\Debug\021 SubirImagenesADatabase.pdb

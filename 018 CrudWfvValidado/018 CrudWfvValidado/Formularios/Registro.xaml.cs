@@ -50,7 +50,7 @@ namespace _018_CrudWfvValidado.Formularios
         }
         #endregion
 
-        private void btnAceptar_Click(object sender, RoutedEventArgs e)
+        private async void btnAceptar_Click(object sender, RoutedEventArgs e)
         {
             if (ValidaPersona())
             {
@@ -59,7 +59,8 @@ namespace _018_CrudWfvValidado.Formularios
                 persona.ApMaterno = txtApMaterno.Text;
                 persona.ApPaterno = txtApPaterno.Text;
                 persona.Id = this._id != 0 ? this._id : 0;
-                this.acceso.Guardar(persona);
+                bool re= await this.acceso.Guardar(persona);
+
                 this.Close();
             }
         }

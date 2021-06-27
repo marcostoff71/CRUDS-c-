@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\bin\Debug\020 CrudConImagenes.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\bin\Debug\020 CrudConImagenes.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\bin\Debug\020 CrudConImagenes.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\020 CrudConImagenes.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\_020_CrudConImagenes.Formularios.CtrRegistro.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\_020_CrudConImagenes.Formularios.FrmPrincipal.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\_020_CrudConImagenes.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\020 CrudConImagenes.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\020 CrudConImagenes.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\020 CrudConImagenes.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\020 CrudConImagenes.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# para principiantes\020 CrudConImagenes\020 CrudConImagenes\obj\Debug\020 CrudConImagenes.pdb

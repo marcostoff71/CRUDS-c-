@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019 CrudDapper", "019 CrudDapper\019 CrudDapper.csproj", "{52140277-FE1C-454C-8BD5-57C66131DA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52140277-FE1C-454C-8BD5-57C66131DA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52140277-FE1C-454C-8BD5-57C66131DA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52140277-FE1C-454C-8BD5-57C66131DA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52140277-FE1C-454C-8BD5-57C66131DA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED6588D-279E-416D-B525-B9ACBD81249C}
+	EndGlobalSection
+EndGlobal

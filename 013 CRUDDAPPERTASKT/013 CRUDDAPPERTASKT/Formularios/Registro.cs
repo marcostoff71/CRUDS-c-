@@ -59,7 +59,7 @@ namespace _013_CRUDDAPPERTASKT.Formularios
         private async void CargarCampos(int id)
         {
             Persona p1 = await acceso.ObtenerPersonasId(id);
-            txtNombre.Text = p1.Nombre;
+            txtNombre.Text =    
             txtApeMa.Text = p1.Apellido_Materno;
             txtApePa.Text = p1.Apellido_Paterno;
             txtEdad.Text = p1.Edad.ToString();
